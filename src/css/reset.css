@@ -1,0 +1,14 @@
+*{
+    margin: 0; /*Espaçamento interno sobre os elementos*/
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
